@@ -1,17 +1,17 @@
 # Wesley Oliveira Santos 👨‍💻
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/wesleyosantos91)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/wesleyosantos91/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesleyosantos91@gmail.com)](mailto:wesleyosantos91@gmail.com/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesleyosantos91)](https://github.com/wesleyosantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesleyosantos91/)](https://www.linkedin.com/in/wesleyosantos/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wesley.oliveira@grupoboticario.com.br)](mailto:wesleyosantos91@gmail.com/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)](https://api.whatsapp.com/send?phone=5561995511463&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wesleyosantos91)](https://t.me/wesleyosantos91)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/wesleyosantos)](https://t.me/wesleyosantos91)
 
 <p>
-  <img src="http://views.whatilearened.today/views/github/wesleyosantos91/views.svg" />
-  <a href="https://github.com/wesleyosantos91/">
-    <img src="https://img.shields.io/github/followers/wesleyosantos91?color=%234CC61E&label=GitHub%20Followers%20%3A" />
+  <img src="http://views.whatilearened.today/views/github/wesleyosantos/views.svg" />
+  <a href="https://github.com/wesleyosantos/">
+    <img src="https://img.shields.io/github/followers/wesleyosantos?color=%234CC61E&label=GitHub%20Followers%20%3A" />
   </a>
-  <a href="https://github.com/wesleyosantos91?tab=repositories">
+  <a href="https://github.com/wesleyosantos?tab=repositories">
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
   </a>
 </p>
@@ -25,9 +25,9 @@
 
 </p>
 
-![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wesleyosantos91&show_icons=true&theme=radical)
+![Wesley github stats](https://github-readme-stats.vercel.app/api?username=wesleyosantos&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos91&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyosantos&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Olá 👋
